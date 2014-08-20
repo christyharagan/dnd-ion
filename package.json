@@ -1,0 +1,13 @@
+{
+  "name": "cjh-dnd-ion",
+  "author": "Christy Haragan",
+  "version": "0.0.1",
+  "dependencies": {
+    "cjh-dnd": "0.0.1",
+    "cjh-tree": "0.0.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "./lib/index.js"
+}
